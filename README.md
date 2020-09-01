@@ -5,8 +5,11 @@ The reason for the dual inductors is that in the event RF is present on the coax
 It should handle 1000 W RF from 160 meters to and including two meters.
 
 For those who are lazy, the pcb boards + components is avaible here:
+
 Injector:
 https://aisler.net/p/JQQXAEPC
-extractor:
+
+Extractor:
 https://aisler.net/p/MLCWOMDY
 
+73!
