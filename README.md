@@ -15,6 +15,9 @@ https://aisler.net/p/JQQXAEPC
 Extractor:
 https://aisler.net/p/MLCWOMDY
 
+Dimensions:
+https://github.com/Supermagnum/bias-T/blob/master/size.png
+
 For those who wants the gerber files, and BOM's:
 
 extractor:
