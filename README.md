@@ -4,6 +4,9 @@ The reason for the dual inductors is that in the event RF is present on the coax
 
 It should handle 1000 W RF from 160 meters to and including two meters.
 
+scematic diagram:
+https://github.com/Supermagnum/bias-T/blob/master/scema.png
+
 For those who are lazy, the pcb boards + components is avaible here:
 
 Injector:
