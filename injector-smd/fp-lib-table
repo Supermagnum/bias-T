@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name injector-smd-footprints)(type KiCad)(uri ${KIPRJMOD}/injector-smd-footprints.pretty)(options "")(descr ""))
+)
