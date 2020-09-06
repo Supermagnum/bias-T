@@ -26,5 +26,8 @@ https://github.com/Supermagnum/bias-T/tree/master/extractor-smd
 Injector:
 https://github.com/Supermagnum/bias-T/tree/master/injector-smd
 
+Source article:
+http://www.ad5x.com/images/Articles/RemoteDC%20RevA.pdf
+
 
 73!
