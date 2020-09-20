@@ -18,7 +18,7 @@ Please read: https://rushpcb.com/manufacturing-rf-and-high-frequency-boards/
 scematic diagram:
 https://github.com/Supermagnum/bias-T/blob/master/scema.png
 
-For those who are lazy, the pcb boards + components is avaible here:
+For those who are lazy, the pcb boards + components is avaible here ( 100 W should be OK ):
 
 Injector:
 https://aisler.net/p/JQQXAEPC
