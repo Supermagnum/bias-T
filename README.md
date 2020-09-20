@@ -10,7 +10,9 @@ That is 1.8 MHz to 145 MHz.
 IMPORTANT! 
 
 That kind of RF power is not advised on FR4 based circuit boards!
-RT/duroid® Laminates or equal products is required.
+RT/duroid® Laminates or similar products is required.
+Please read: https://rushpcb.com/manufacturing-rf-and-high-frequency-boards/
+
 
 
 scematic diagram:
