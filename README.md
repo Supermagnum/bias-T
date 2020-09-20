@@ -8,6 +8,7 @@ The components should handle 1000 W RF from 160 meters to and including two mete
 That is 1.8 MHz to 145 MHz. 
 
 IMPORTANT! 
+
 That kind of RF power is not advised on FR4 based circuit boards!
 RT/duroid® Laminates or equal products is required.
 
