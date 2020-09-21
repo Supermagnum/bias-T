@@ -1,4 +1,4 @@
-update=on. 02. sep. 2020 kl. 02.11 +0200
+update=ma. 21. sep. 2020 kl. 11.43 +0200
 version=1
 last_client=pcbnew
 [general]
@@ -57,7 +57,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -239,7 +239,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=RF
 Clearance=1.5
-TrackWidth=0.7
+TrackWidth=2.5
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
@@ -250,7 +250,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=RF-GND
 Clearance=1.5
-TrackWidth=0.7
+TrackWidth=2.5
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
